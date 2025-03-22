@@ -1,0 +1,8 @@
+{
+    "about": {
+        "denis": "Membro del team weksoftware. Programmatore Python e Javascript. Partecipa allo sviluppo di siti web, bot per discord e allo sviluppo di altri progetti. Sviluppatore del bot AntiEvil.",
+        "mrwek": "Membro del team weksoftware. Programmatore php, python, lua, c++, artista. Coinvolto nello sviluppo di giochi, framework e servizi backend. Amministratore del progetto AntiEvil.",
+        "weksoftware": "Un team di sviluppatori, i cui membri creano progetti utili per la gente comune e per gli sviluppatori da diversi anni. Ogni anno weksoftware sviluppa e aiuta altri a sviluppare."
+    },
+    "footer": "A base di {{food_emoji}} & {{drink_emoji}}" 
+}

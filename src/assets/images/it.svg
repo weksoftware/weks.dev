@@ -1,0 +1,11 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 36 36" width="128" height="128">
+	<title>italy-svg</title>
+	<style>
+		.s0 { fill: #ce2b37 } 
+		.s1 { fill: #009246 } 
+		.s2 { fill: #f1f2f1 } 
+	</style>
+	<path id="Layer" class="s0" d="m36 27c0 2.2-1.8 4-4 4h-8v-26h8c2.2 0 4 1.8 4 4z"/>
+	<path id="Layer" class="s1" d="m4 5c-2.2 0-4 1.8-4 4v18c0 2.2 1.8 4 4 4h8v-26z"/>
+	<path id="Layer" class="s2" d="m12 5h12v26h-12z"/>
+</svg>
