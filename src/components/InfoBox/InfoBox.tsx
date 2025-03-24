@@ -30,7 +30,7 @@ function InfoBox() {
                 website_url: 'https://weksoftware.ru',
                 github_url: 'https://github.com/weksoftware',
                 telegram_url: 'https://t.me/weksoftware',
-                email: 'weksoftware@weks.dev',
+                email: 'help@weks.dev',
             }} />
         </div>
     )
