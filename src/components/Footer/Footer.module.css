@@ -8,5 +8,6 @@
 @media (max-width: 600px) {
     .footer {
         padding-right: 16px;
+        padding-bottom: 16px;
     }
 }
